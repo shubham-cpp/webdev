@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "allowJs": true,
+    "checkJs": true,
+    "removeComments": true,
+    "outDir": "./ts-output"
+  },
+  "exclude": ["dist/*"]
+}

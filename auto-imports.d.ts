@@ -2,5 +2,8 @@
 export {}
 declare global {
   const ElButton: typeof import('element-plus/es')['ElButton']
+  const ElCol: typeof import('element-plus/es')['ElCol']
   const ElConfigProvider: typeof import('element-plus/es')['ElConfigProvider']
+  const ElImage: typeof import('element-plus/es')['ElImage']
+  const ElRow: typeof import('element-plus/es')['ElRow']
 }

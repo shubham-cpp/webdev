@@ -1,5 +1,10 @@
-div {
-  h2 {
-    color: blue;
-  }
+body {
+  max-width: 896px;
+}
+#app {
+  aspect-ratio: 1/1;
+  width: 100vw;
+}
+main {
+  padding: 2rem 4rem;
 }
